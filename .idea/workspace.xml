@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="Zadanie 62">
-      <change afterPath="$PROJECT_DIR$/Zad65/dane_ulamki.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad65/zad65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad63/ciagi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad63/zad63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad68/dane_napisy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad68/zad68.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2t81QGuS31R1GvotM0NXrjV8QUn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +56,9 @@
     "Python.zad59.executor": "Run",
     "Python.zad61.executor": "Run",
     "Python.zad62.executor": "Run",
+    "Python.zad63.executor": "Run",
     "Python.zad65.executor": "Run",
+    "Python.zad68.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -66,14 +72,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad63" />
+      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad68" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad65" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad62" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad61" />
-      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad60" />
-      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad59" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.zad63">
     <configuration name="zad61" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zbiórZadanCKE" />
       <option name="ENV_FILES" value="" />
@@ -97,8 +103,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zad63" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zbiórZadanCKE" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zad63" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zad63/zad63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zad63" />
         <item itemvalue="Python.zad61" />
       </list>
     </recent_temporary>
@@ -124,6 +154,9 @@
       <workItem from="1739899862713" duration="2956000" />
       <workItem from="1740070341545" duration="3639000" />
       <workItem from="1740411403271" duration="7727000" />
+      <workItem from="1740484760378" duration="1035000" />
+      <workItem from="1740494966917" duration="2143000" />
+      <workItem from="1740502622915" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 58 16.02.2025">
       <option name="closed" value="true" />
@@ -232,6 +265,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad65.coverage" NAME="zad65 Coverage Results" MODIFIED="1740426009851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad65" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad62.coverage" NAME="zad62 Coverage Results" MODIFIED="1740413167222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad62" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad68.coverage" NAME="zad68 Coverage Results" MODIFIED="1740496524047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad68" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad63.coverage" NAME="zad63 Coverage Results" MODIFIED="1740506290616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad63" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad59.coverage" NAME="zad59 Coverage Results" MODIFIED="1739817814924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad59" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad61.coverage" NAME="zad61 Coverage Results" MODIFIED="1740411695094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad61" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie58_SystemyLiczbowe.coverage" NAME="Zadanie58-SystemyLiczbowe Coverage Results" MODIFIED="1739722828171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad58" />
