@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="Zadanie 62">
-      <change afterPath="$PROJECT_DIR$/Zad63/ciagi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad63/zad63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad68/dane_napisy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad68/zad68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad64/dane_obrazki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad64/zad64.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +55,13 @@
     "Python.zad61.executor": "Run",
     "Python.zad62.executor": "Run",
     "Python.zad63.executor": "Run",
+    "Python.zad64.executor": "Run",
     "Python.zad65.executor": "Run",
     "Python.zad68.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jonie/Desktop/Folder/Github/zbiórZadanCKE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,16 +70,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad64" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad63" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad68" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad65" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad62" />
-      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Zad61" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zad63">
+  <component name="RunManager">
     <configuration name="zad61" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zbiórZadanCKE" />
       <option name="ENV_FILES" value="" />
@@ -156,7 +159,8 @@
       <workItem from="1740411403271" duration="7727000" />
       <workItem from="1740484760378" duration="1035000" />
       <workItem from="1740494966917" duration="2143000" />
-      <workItem from="1740502622915" duration="1992000" />
+      <workItem from="1740502622915" duration="2097000" />
+      <workItem from="1740760182636" duration="2982000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 58 16.02.2025">
       <option name="closed" value="true" />
@@ -238,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740413201132</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Zadanie 62">
+      <option name="closed" value="true" />
+      <created>1740506391676</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740506391676</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,10 +278,11 @@
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad65.coverage" NAME="zad65 Coverage Results" MODIFIED="1740426009851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad65" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad62.coverage" NAME="zad62 Coverage Results" MODIFIED="1740413167222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad62" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad68.coverage" NAME="zad68 Coverage Results" MODIFIED="1740496524047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad68" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad63.coverage" NAME="zad63 Coverage Results" MODIFIED="1740506290616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad63" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad63.coverage" NAME="zad63 Coverage Results" MODIFIED="1740506315430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad63" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad59.coverage" NAME="zad59 Coverage Results" MODIFIED="1739817814924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad59" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad61.coverage" NAME="zad61 Coverage Results" MODIFIED="1740411695094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad61" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie58_SystemyLiczbowe.coverage" NAME="Zadanie58-SystemyLiczbowe Coverage Results" MODIFIED="1739722828171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad58" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad64.coverage" NAME="zad64 Coverage Results" MODIFIED="1740763315749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad64" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie60.coverage" NAME="Zadanie60 Coverage Results" MODIFIED="1739902683729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad60" />
   </component>
 </project>
