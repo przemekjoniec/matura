@@ -63,7 +63,7 @@ max_dlugosc = 0
 for wiersz in wiersze:
     wiersz = wiersz.strip()
     geny = znajdz_geny(wiersz)
-    if len(geny) > max_liczba_genów:
+    if len(geny) > max_liczba_genów:S
         max_liczba_genów = len(geny)
     for gen in geny:
         if len(gen) > max_dlugosc:
