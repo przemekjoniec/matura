@@ -31,6 +31,6 @@ for wiersz in wiersze:
     if len(dzielniki) == 18:
         print(f'Liczba: {liczba}, jej dzielniki: {dzielniki}')
 
-#ZADANIE 60.3
+
 
 

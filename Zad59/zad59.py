@@ -32,7 +32,6 @@ def znajdz_moc(liczba):
         iloczyn = 1
         for cyfra in liczba:
             iloczyn *= int(cyfra)
-
         liczba = str(iloczyn)
         ile_cyfr = len(liczba)
     return moc
