@@ -68,3 +68,21 @@ for i in range(0,len(wiersze8)):
 
 print(ile_takich_samych)
 print(ile_wiekszych)
+
+#4
+ile_6_w_10 = 0
+ile_6_w_8 = 0
+
+for wiersz in wiersze10:
+    wiersz = wiersz.strip()
+    wiersz8 = oct(int(wiersz.strip())).replace('0o','')
+    for cyfra in wiersz:
+        if cyfra == '6':
+            ile_6_w_10 += 1
+    for cyfra in wiersz8:
+        if cyfra == '6':
+            ile_6_w_8 += 1
+
+print(ile_6_w_10)
+print(ile_6_w_8)
+#Pliki sa zwalone albo odpowiedzi i sa na odwrot ale dziala
