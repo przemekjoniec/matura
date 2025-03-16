@@ -36,4 +36,3 @@ print(ile_ciagow_bez_1_obok_siebie)
 #nie chce mi sie
 
 
-
