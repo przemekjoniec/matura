@@ -13,7 +13,7 @@ print(czy_pierwsza(13))
 
 
 # liczby_pierwsze = []
-#
+# 
 # for i in range(0,100):
 #     if czy_pierwsza(i):
 #         liczby_pierwsze.append(i)
