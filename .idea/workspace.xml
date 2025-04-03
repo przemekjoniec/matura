@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="algorytmy">
+    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="zad">
+      <change afterPath="$PROJECT_DIR$/Algorytmy/sortowanie bąbelkowe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZbiórZadan2/59/zad.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZbiórZadan2/59/zad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorytmy/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorytmy/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +279,8 @@
       <workItem from="1743000760337" duration="3396000" />
       <workItem from="1743007114455" duration="2162000" />
       <workItem from="1743239669857" duration="1426000" />
-      <workItem from="1743270347811" duration="2530000" />
+      <workItem from="1743270347811" duration="2858000" />
+      <workItem from="1743676190234" duration="2812000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 58 16.02.2025">
       <option name="closed" value="true" />
@@ -584,7 +586,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743241101461</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="zad">
+      <option name="closed" value="true" />
+      <created>1743273244442</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1743273244442</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +636,8 @@
     <MESSAGE value="Zad 63 - 63.3 do zrobienia" />
     <MESSAGE value="Zad 66 - do dokonczenia 3 i 4" />
     <MESSAGE value="algorytmy" />
-    <option name="LAST_COMMIT_MESSAGE" value="algorytmy" />
+    <MESSAGE value="zad" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,8 +659,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad65.coverage" NAME="zad65 Coverage Results" MODIFIED="1742070516174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad65" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$NWD__gcd_.coverage" NAME="NWD (gcd) Coverage Results" MODIFIED="1742584907576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad62.coverage" NAME="zad62 Coverage Results" MODIFIED="1742028583846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad62" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$NWD__gcd_.coverage" NAME="NWD (gcd) Coverage Results" MODIFIED="1742584907576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad68.coverage" NAME="zad68 Coverage Results" MODIFIED="1740496524047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad68" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad59.coverage" NAME="zad59 Coverage Results" MODIFIED="1741808367885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad59" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad74.coverage" NAME="zad74 Coverage Results" MODIFIED="1743241052989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad74" />
@@ -667,10 +678,10 @@
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zadanie.coverage" NAME="zadanie Coverage Results" MODIFIED="1743241050122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/74" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie60.coverage" NAME="Zadanie60 Coverage Results" MODIFIED="1741810112342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad60" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad67.coverage" NAME="zad67 Coverage Results" MODIFIED="1740845663346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad67" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad.coverage" NAME="zad Coverage Results" MODIFIED="1743272839604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/59" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad.coverage" NAME="zad Coverage Results" MODIFIED="1743273061771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/59" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad64.coverage" NAME="zad64 Coverage Results" MODIFIED="1740763523401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad64" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$teoria.coverage" NAME="teoria Coverage Results" MODIFIED="1741640782834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Maj 2014" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad76.coverage" NAME="zad76 Coverage Results" MODIFIED="1741203395631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad76" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$test.coverage" NAME="test Coverage Results" MODIFIED="1742585059880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$test.coverage" NAME="test Coverage Results" MODIFIED="1743678555607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
   </component>
 </project>
