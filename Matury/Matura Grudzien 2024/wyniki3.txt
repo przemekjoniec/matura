@@ -1,0 +1,9 @@
+Zadanie 3.1
+Pierwsza liczba będąca kwadratem liczby całkowitej: 4489
+Takich liczb jest: 20
+
+Zadanie 3.3
+Wieksza: 1052
+Mniejsza: 947
+Równa: 1
+Równa roznica ma liczba: 6174
