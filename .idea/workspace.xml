@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="Algorytmy">
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/Rekurencja.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/Zadanie 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/Zadanie 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/liczby.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/pomoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/prostokaty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/wyniki3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matury/Matura Grudzien 2024/wyniki4.txt" afterDir="false" />
+    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="Matura">
+      <change afterPath="$PROJECT_DIR$/Matury/Matura Maj 2023/Zadanie 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matury/Matura Maj 2023/Zadanie 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matury/Matura Maj 2023/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matury/Matura Maj 2023/skrot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matury/Matura Maj 2023/skrot2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,48 +50,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NWD (gcd).executor&quot;: &quot;Run&quot;,
-    &quot;Python.NWW (lcm).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rekurencja.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Zadanie 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Zadanie 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Zadanie58-SystemyLiczbowe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Zadanie60.executor&quot;: &quot;Run&quot;,
-    &quot;Python.czy_liczba_pierwsza.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dzielnki_liczby.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rozklad_na_czynniki_pierwsze.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teoria.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad59.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad61.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.zad62.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad63.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad64.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad65.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad67.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad68.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad69.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad74.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad75.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zad76.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zadanie.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonie/Desktop/Folder/Github/zbiórZadanCKE/ZbiórZadan2/74&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.NWD (gcd).executor": "Run",
+    "Python.NWW (lcm).executor": "Run",
+    "Python.Rekurencja.executor": "Run",
+    "Python.Zadanie 2.executor": "Run",
+    "Python.Zadanie 3.executor": "Run",
+    "Python.Zadanie 4.executor": "Run",
+    "Python.Zadanie58-SystemyLiczbowe.executor": "Run",
+    "Python.Zadanie60.executor": "Run",
+    "Python.czy_liczba_pierwsza.executor": "Run",
+    "Python.dzielnki_liczby.executor": "Run",
+    "Python.matura.executor": "Run",
+    "Python.rozklad_na_czynniki_pierwsze.executor": "Run",
+    "Python.teoria.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.zad.executor": "Run",
+    "Python.zad59.executor": "Run",
+    "Python.zad61.executor": "Debug",
+    "Python.zad62.executor": "Run",
+    "Python.zad63.executor": "Run",
+    "Python.zad64.executor": "Run",
+    "Python.zad65.executor": "Run",
+    "Python.zad67.executor": "Run",
+    "Python.zad68.executor": "Run",
+    "Python.zad69.executor": "Run",
+    "Python.zad74.executor": "Run",
+    "Python.zad75.executor": "Run",
+    "Python.zad76.executor": "Run",
+    "Python.zadanie.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jonie/Desktop/Folder/Github/zbiórZadanCKE/ZbiórZadan2/74",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
@@ -107,11 +105,11 @@
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\ZbiórZadan2\63" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\Matura Maj 2023" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\Matura Grudzien 2024" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\PR Maj 2017" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\PR Maj 2015" />
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\PR Maj 2012" />
-      <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\PR Maj 2010" />
     </key>
   </component>
   <component name="RunManager">
@@ -290,7 +288,8 @@
       <workItem from="1743239669857" duration="1426000" />
       <workItem from="1743270347811" duration="2858000" />
       <workItem from="1743676190234" duration="3253000" />
-      <workItem from="1743775974146" duration="9621000" />
+      <workItem from="1743775974146" duration="9670000" />
+      <workItem from="1743859621906" duration="9680000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 58 16.02.2025">
       <option name="closed" value="true" />
@@ -612,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743679617833</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Matura">
+      <option name="closed" value="true" />
+      <created>1743786998063</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1743786998063</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie 59" />
     <MESSAGE value="Zadanie 60" />
     <MESSAGE value="Zadanie 62" />
     <MESSAGE value="Zadanie 64 - do dokonczenia" />
@@ -655,7 +661,8 @@
     <MESSAGE value="algorytmy" />
     <MESSAGE value="zad" />
     <MESSAGE value="Algorytmy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorytmy" />
+    <MESSAGE value="Matura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matura" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,8 +684,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad65.coverage" NAME="zad65 Coverage Results" MODIFIED="1742070516174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad65" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$NWD__gcd_.coverage" NAME="NWD (gcd) Coverage Results" MODIFIED="1742584907576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad62.coverage" NAME="zad62 Coverage Results" MODIFIED="1742028583846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad62" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$NWD__gcd_.coverage" NAME="NWD (gcd) Coverage Results" MODIFIED="1742584907576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad68.coverage" NAME="zad68 Coverage Results" MODIFIED="1740496524047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad68" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Rekurencja.coverage" NAME="Rekurencja Coverage Results" MODIFIED="1743777018638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Grudzien 2024" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad59.coverage" NAME="zad59 Coverage Results" MODIFIED="1741808367885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad59" />
@@ -691,18 +698,19 @@
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$1.coverage" NAME="1 Coverage Results" MODIFIED="1742052740569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad69.coverage" NAME="zad69 Coverage Results" MODIFIED="1741028949873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad69" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad75.coverage" NAME="zad75 Coverage Results" MODIFIED="1740855127193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad75" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie_3.coverage" NAME="Zadanie 3 Coverage Results" MODIFIED="1743782229770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Grudzien 2024" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie_3.coverage" NAME="Zadanie 3 Coverage Results" MODIFIED="1743863385276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Maj 2023" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$rozklad_na_czynniki_pierwsze.coverage" NAME="rozklad_na_czynniki_pierwsze Coverage Results" MODIFIED="1742992875579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$czy_liczba_pierwsza.coverage" NAME="czy_liczba_pierwsza Coverage Results" MODIFIED="1742242823150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$dzielnki_liczby.coverage" NAME="dzielnki_liczby Coverage Results" MODIFIED="1743000955020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zadanie.coverage" NAME="zadanie Coverage Results" MODIFIED="1743241050122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/74" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie60.coverage" NAME="Zadanie60 Coverage Results" MODIFIED="1741810112342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad60" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad67.coverage" NAME="zad67 Coverage Results" MODIFIED="1740845663346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad67" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad.coverage" NAME="zad Coverage Results" MODIFIED="1743786457430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/59" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad.coverage" NAME="zad Coverage Results" MODIFIED="1743860605864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ZbiórZadan2/59" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad64.coverage" NAME="zad64 Coverage Results" MODIFIED="1740763523401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad64" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$teoria.coverage" NAME="teoria Coverage Results" MODIFIED="1741640782834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Maj 2014" />
-    <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie_4.coverage" NAME="Zadanie 4 Coverage Results" MODIFIED="1743786634084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Grudzien 2024" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie_4.coverage" NAME="Zadanie 4 Coverage Results" MODIFIED="1743873246576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Maj 2023" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$zad76.coverage" NAME="zad76 Coverage Results" MODIFIED="1741203395631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zad76" />
+    <SUITE FILE_PATH="coverage/zbiórZadanCKE$Zadanie_2.coverage" NAME="Zadanie 2 Coverage Results" MODIFIED="1743860869044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matury/Matura Maj 2023" />
     <SUITE FILE_PATH="coverage/zbiórZadanCKE$test.coverage" NAME="test Coverage Results" MODIFIED="1743678555607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorytmy" />
   </component>
 </project>
