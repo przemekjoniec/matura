@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="Matura">
-      <change afterPath="$PROJECT_DIR$/Algorytmy/zamiana z 10 na dowolny system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorytmy/zamiana z systemu na 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d7b3192-f5bf-417d-8275-5a0532f139ae" name="Changes" comment="algorytmy zamiany" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,52 +43,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.NWD (gcd).executor": "Run",
-    "Python.NWW (lcm).executor": "Run",
-    "Python.Rekurencja.executor": "Run",
-    "Python.Zadanie 1.2.executor": "Run",
-    "Python.Zadanie 2.executor": "Run",
-    "Python.Zadanie 3.executor": "Run",
-    "Python.Zadanie 4.executor": "Run",
-    "Python.Zadanie58-SystemyLiczbowe.executor": "Run",
-    "Python.Zadanie60.executor": "Run",
-    "Python.czy_liczba_pierwsza.executor": "Run",
-    "Python.dzielnki_liczby.executor": "Run",
-    "Python.matura.executor": "Run",
-    "Python.rozklad_na_czynniki_pierwsze.executor": "Run",
-    "Python.teoria.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.zad.executor": "Run",
-    "Python.zad59.executor": "Run",
-    "Python.zad61.executor": "Debug",
-    "Python.zad62.executor": "Run",
-    "Python.zad63.executor": "Run",
-    "Python.zad64.executor": "Run",
-    "Python.zad65.executor": "Run",
-    "Python.zad67.executor": "Run",
-    "Python.zad68.executor": "Run",
-    "Python.zad69.executor": "Run",
-    "Python.zad74.executor": "Run",
-    "Python.zad75.executor": "Run",
-    "Python.zad76.executor": "Run",
-    "Python.zadanie.executor": "Run",
-    "Python.zamiana z 10 na dowolny system.executor": "Run",
-    "Python.zamiana z systemu na 10.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jonie/Desktop/Folder/Github/zbiórZadanCKE/ZbiórZadan2/74",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NWD (gcd).executor&quot;: &quot;Run&quot;,
+    &quot;Python.NWW (lcm).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rekurencja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie 1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie58-SystemyLiczbowe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Zadanie60.executor&quot;: &quot;Run&quot;,
+    &quot;Python.czy_liczba_pierwsza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dzielnki_liczby.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rozklad_na_czynniki_pierwsze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teoria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad59.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad61.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.zad62.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad63.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad64.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad65.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad68.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad69.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad74.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zad76.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zadanie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zamiana z 10 na dowolny system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zamiana z systemu na 10.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonie/Desktop/Folder/Github/zbiórZadanCKE/ZbiórZadan2/74&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
@@ -112,7 +108,7 @@
       <recent name="C:\Users\jonie\Desktop\Folder\Github\zbiórZadanCKE\Matury\PR Maj 2015" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.zad">
     <configuration name="zad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zbiórZadanCKE" />
       <option name="ENV_FILES" value="" />
@@ -295,6 +291,7 @@
       <workItem from="1744232297169" duration="1000" />
       <workItem from="1744312247236" duration="1000" />
       <workItem from="1744313142179" duration="1255000" />
+      <workItem from="1744314448153" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Zadanie 58 16.02.2025">
       <option name="closed" value="true" />
@@ -648,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744224951455</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="algorytmy zamiany">
+      <option name="closed" value="true" />
+      <created>1744314498945</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1744314498945</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +671,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadanie 60" />
     <MESSAGE value="Zadanie 62" />
     <MESSAGE value="Zadanie 64 - do dokonczenia" />
     <MESSAGE value="Zadanie 74" />
@@ -691,7 +695,8 @@
     <MESSAGE value="zad" />
     <MESSAGE value="Algorytmy" />
     <MESSAGE value="Matura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matura" />
+    <MESSAGE value="algorytmy zamiany" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorytmy zamiany" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
