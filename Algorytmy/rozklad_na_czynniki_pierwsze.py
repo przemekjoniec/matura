@@ -6,6 +6,6 @@ def czynniki_pierwsze(a):
             a //= k
         k += 1
 
-print(czynniki_pierwsze(1520))
+print(czynniki_pierwsze(420))
 
 
