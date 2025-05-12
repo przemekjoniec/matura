@@ -1,51 +1,65 @@
-def cyfry_z_liczby(a):
-    cyfry = []
-    while a > 0:
-        cyfra = a % 10
+def cyfrazliczby(n):
+    cyfry=[]
+    while n > 0:
+        cyfra = n%10
         cyfry.append(cyfra)
-        a = a // 10
+        n //= 10
     return cyfry[::-1]
 
-print(cyfry_z_liczby(1984))
+print(cyfrazliczby(10564))
 
-def czy_liczba_pierwsza(a):
-    if a == 2:
+def czyliczbapierwsza(n):
+    if n == 2:
         return True
-    if a%2 == 0 or a<=0:
+    if n % 2 == 0 or n <= 1:
         return False
-    polowa = int((a/2) + 1)
-    for dzielnik in range(3, polowa, 2):
-        if a%dzielnik == 0:
+    for i in range(3, int(n//2)+1,2):
+        if n % i == 0:
             return False
     return True
 
-print(czy_liczba_pierwsza(719))
+print(czyliczbapierwsza(5))
 
-def dzielniki_liczby(a):
-    for i in range(1, int(a/2+1)):
-        if a%i == 0:
-            print(str(i) + " ")
-    print(a)
+def dzielnikiliczby(n):
+    dzielniki=[]
+    m = n
+    for i in range(1,int(n//2)+1):
+        if n % i == 0:
+            dzielniki.append(i)
+    dzielniki.append(m)
+    return dzielniki
 
-print(dzielniki_liczby(150))
+print(dzielnikiliczby(32))
 
 def nwd(a,b):
     if a % b == 0:
         return b
     else:
         return nwd(b, a % b)
+print(nwd(6,14))
 
-print(nwd(4,6))
-a=4
-b=6
-print(f'NWW: {a * b/nwd(a,b)}')
+#NWW
 
-def rozklad_na_czynniki_pierwsze(a):
+a = 6
+b = 14
+print(f'{int(a*b/nwd(a,b))}')
+
+def rozkladnaczynnikipierwsze(n):
     k = 2
-    while a>1:
-        while a%k==0:
-            print(k)
-            a //= k
-        k+=1
+    czynniki = []
+    while n > 1:
+        while n % k == 0:
+            czynniki.append(k)
+            n //= k
+        k += 1
+    return czynniki
+print(rozkladnaczynnikipierwsze(345))
 
-print(rozklad_na_czynniki_pierwsze(56))
+def z10na3(n):
+    wynik = ""
+    while n > 0:
+        wynik = str(n%3) + wynik
+        n = n // 3
+    return wynik
+
+print(z10na3(345))

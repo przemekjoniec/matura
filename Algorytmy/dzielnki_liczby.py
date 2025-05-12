@@ -4,4 +4,4 @@ def dzielniki(x):
             print(str(i) + " "),
     print(x)
 
-print(dzielniki(13))
+print(dzielniki(44))

@@ -21,4 +21,4 @@ def zamianaz10z3(n):
 
 print(zamianaz10z2(45))
 print(zamianaz10z7(45))
-print(zamianaz10z3(45))
+print(zamianaz10z3(345))
